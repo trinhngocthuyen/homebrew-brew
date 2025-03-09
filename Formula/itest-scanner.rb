@@ -2,7 +2,7 @@ class ItestScanner < Formula
   desc "Test scanner for iOS projects"
   homepage "https://github.com/trinhngocthuyen/itest-scanner"
   url "https://github.com/trinhngocthuyen/itest-scanner/archive/refs/tags/0.0.1.tar.gz"
-  sha256 "43390472a652768210b89e087df1b345a9b59c86f99a45b55f3319e9d893c49d"
+  sha256 "7fb4c57b20593f018d7546779be48a0aa2180bf87a2a957e19425bf05e9c9542"
   license "MIT"
   head "https://github.com/trinhngocthuyen/itest-scanner.git", branch: "main"
 
